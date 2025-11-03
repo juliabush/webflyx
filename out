@@ -1,6 +1,4 @@
-total 16
--rw-rw-r-- 1 juliabush juliabush  227 lis  3 16:34 classics.csv
--rw-rw-r-- 1 juliabush juliabush   10 lis  3 15:03 contents.md
--rw-rw-r-- 1 juliabush juliabush    0 lis  3 16:39 out
-drwxrwxr-x 2 juliabush juliabush 4096 lis  3 15:34 quotes
--rw-rw-r-- 1 juliabush juliabush   96 lis  3 15:25 titles.md
+0ee71e8 E: Adding stuff to contents
+896e58e C: add uotes
+164b811 B: add titles.
+d195e04 A: add contents.md
