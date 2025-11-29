@@ -4,7 +4,12 @@
 - "When Is A Gift Not A Gift?"
 - "The spice must flow."
 <<<<<<< HEAD
+<<<<<<< HEAD
 - "Fear is the mind-killer."
 
 =======
 >>>>>>> 450bf0d (H: adding a quote)
+=======
+- "Fear is the mind-killer."
+
+>>>>>>> 5fe4814 (I: adding another quote)
